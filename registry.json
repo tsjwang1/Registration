@@ -5477,5 +5477,20 @@
     "telegram": "BalanceAnalytics",
     "operatorName": "",
     "github": "Balance-Analytics-io"
+  },
+  {
+    "ticker": "AUADA",
+    "poolId": "bb38423188200e3a8536d330988e925d767bc826626c8a62ab8ec6df",
+    "social": {
+      "website": "https://aus800.com.au",
+      "twitter": "",
+      "facebook": "",
+      "discord": "https://discord.gg/2FE5U9YQ",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "Sorrymarket",
+    "operatorName": "",
+    "github": ""
   }
 ]
